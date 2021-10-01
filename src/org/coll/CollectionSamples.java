@@ -8,11 +8,11 @@ public class CollectionSamples {
 		
 	List <Integer> s=new LinkedList<>();
 	
-	s.add(1);
+
 	s.add(5);
 	s.add(15);
 	s.add(17);
-	s.add(5);
+	
 	
 	System.out.println(s);
 	
